@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>E:\CODE\CODE_Java\ImgDownlorder-2.0\out\artifacts\ImgDownlorder_2_0_jar\ImgDownlorder-2.0.jar</jar>
+  <outfile>E:\CODE\CODE_Java\ImgDownlorder-2.0\ImgDownlorder-2.0.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>21.0.6</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
